@@ -43,7 +43,7 @@ names(Y) <- "activity"
 
 names(S) <- "subject"
 output1 <- cbind(S, Y, X)
-write.table(output1, "./data/clean_dataset.txt")
+write.table(output1, "./data/clean_dataset.txt", row.names=FALSE)
 
 ## 5. From the data set in step 4, creates a second, independent tidy data set
 ##    with the average of each variable for each activity and each subject.
@@ -64,4 +64,4 @@ for (s in 1:numSubjects) {
         row = row + 1
     }
 }
-write.table(result, "./data/averages_dataset.txt")
+write.table(result, "./data/averages_dataset.txt", row.names=FALSE)
