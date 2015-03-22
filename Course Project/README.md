@@ -45,7 +45,8 @@ This R script called **`run_analysis.R`** does the following.
 
 - Write the output1 out to **`clean_dataset.txt`** file in the "./data" folder.
 
-### 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. This tidy data set is the file **`averages_dataset.txt`**.
+### 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each   activity and each subject. This tidy data set is the file **`averages_dataset.txt`**.
 
-* We have 30 unique subjects and 6 unique activities, which result in a 180 combinations of the two. Then, for each combination, we calculate the mean of each measurement with the corresponding combination. So, after initializing the result data frame and performing the two for-loops, we get a `180 x 68` data frame.
+* We have 30 unique subjects and 6 unique activities, which result in a 180 combinations of the two. Then, for each   combination, we calculate the mean of each measurement with the corresponding combination. So, after initializing the result data frame and performing the two for-loops, we get a `180 x 68` data frame.
+
 * Write the result out to **`averages_dataset.txt`** file in the "./data" folder.
