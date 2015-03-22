@@ -65,3 +65,5 @@ for (s in 1:numSubjects) {
     }
 }
 write.table(result, "./data/averages_dataset.txt", row.names=FALSE)
+
+## Outputs in the data folder
