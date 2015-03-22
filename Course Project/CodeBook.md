@@ -52,38 +52,37 @@ The set of variables for the 2 files are:
 
 |  |Variable| |Variable|     
 |--|--|--|---|
- 1|subject	        |35|tgravityaccmag-mean	        |
- 2|activity	        |36|tgravityaccmag-std	        |
- 3|tbodyacc-mean-x	|37|tbodyaccjerkmag-mean	|
- 4|tbodyacc-mean-y	|38|tbodyaccjerkmag-std	        |
- 5|tbodyacc-mean-z	|39|tbodygyromag-mean	        |
- 6|tbodyacc-std-x	|40|tbodygyromag-std	        |
- 7|tbodyacc-std-y	|41|tbodygyrojerkmag-mean	|
- 8|tbodyacc-std-z	|42|tbodygyrojerkmag-std	|
- 9|tgravityacc-mean-x	|43|fbodyacc-mean-x	        |
-10|tgravityacc-mean-y	|44|fbodyacc-mean-y	        |
-11|tgravityacc-mean-z	|45|fbodyacc-mean-z	        |
-12|tgravityacc-std-x	|46|fbodyacc-std-x	        |
-13|tgravityacc-std-y	|47|fbodyacc-std-y	        |
-14|tgravityacc-std-z	|48|fbodyacc-std-z	        |
-15|tbodyaccjerk-mean-x	|49|fbodyaccjerk-mean-x	        |
-16|tbodyaccjerk-mean-y	|50|fbodyaccjerk-mean-y	        |
-17|tbodyaccjerk-mean-z	|51|fbodyaccjerk-mean-z	        |
-18|tbodyaccjerk-std-x	|52|fbodyaccjerk-std-x	        |
-19|tbodyaccjerk-std-y	|53|fbodyaccjerk-std-y	        |
-20|tbodyaccjerk-std-z	|54|fbodyaccjerk-std-z	        |
-21|tbodygyro-mean-x	|55|fbodygyro-mean-x	        |
-22|tbodygyro-mean-y	|56|fbodygyro-mean-y	        |
-23|tbodygyro-mean-z	|57|fbodygyro-mean-z	        |
-24|tbodygyro-std-x	|58|fbodygyro-std-x	        |
-25|tbodygyro-std-y	|59|fbodygyro-std-y	        |
-26|tbodygyro-std-z	|60|fbodygyro-std-z	        |
-27|tbodygyrojerk-mean-x	|61|fbodyaccmag-mean	        |
-28|tbodygyrojerk-mean-y	|62|fbodyaccmag-std	        |
-29|tbodygyrojerk-mean-z	|63|fbodybodyaccjerkmag-mean	|
-30|tbodygyrojerk-std-x	|64|fbodybodyaccjerkmag-std	|
-31|tbodygyrojerk-std-y	|65|fbodybodygyromag-mean	|
-32|tbodygyrojerk-std-z	|66|fbodybodygyromag-std	|
-33|tbodyaccmag-mean	|67|fbodybodygyrojerkmag-mean   |
-34|tbodyaccmag-std	|68|fbodybodygyrojerkmag-std    |
-
+| 1|subject	        |35|tgravityaccmag-mean	        |
+| 2|activity	        |36|tgravityaccmag-std	        |
+| 3|tbodyacc-mean-x	|37|tbodyaccjerkmag-mean	|
+| 4|tbodyacc-mean-y	|38|tbodyaccjerkmag-std	        |
+| 5|tbodyacc-mean-z	|39|tbodygyromag-mean	        |
+| 6|tbodyacc-std-x	|40|tbodygyromag-std	        |
+| 7|tbodyacc-std-y	|41|tbodygyrojerkmag-mean	|
+| 8|tbodyacc-std-z	|42|tbodygyrojerkmag-std	|
+| 9|tgravityacc-mean-x	|43|fbodyacc-mean-x	        |
+|10|tgravityacc-mean-y	|44|fbodyacc-mean-y	        |
+|11|tgravityacc-mean-z	|45|fbodyacc-mean-z	        |
+|12|tgravityacc-std-x	|46|fbodyacc-std-x	        |
+|13|tgravityacc-std-y	|47|fbodyacc-std-y	        |
+|14|tgravityacc-std-z	|48|fbodyacc-std-z	        |
+|15|tbodyaccjerk-mean-x	|49|fbodyaccjerk-mean-x	        |
+|16|tbodyaccjerk-mean-y	|50|fbodyaccjerk-mean-y	        |
+|17|tbodyaccjerk-mean-z	|51|fbodyaccjerk-mean-z	        |
+|18|tbodyaccjerk-std-x	|52|fbodyaccjerk-std-x	        |
+|19|tbodyaccjerk-std-y	|53|fbodyaccjerk-std-y	        |
+|20|tbodyaccjerk-std-z	|54|fbodyaccjerk-std-z	        |
+|21|tbodygyro-mean-x	|55|fbodygyro-mean-x	        |
+|22|tbodygyro-mean-y	|56|fbodygyro-mean-y	        |
+|23|tbodygyro-mean-z	|57|fbodygyro-mean-z	        |
+|24|tbodygyro-std-x	|58|fbodygyro-std-x	        |
+|25|tbodygyro-std-y	|59|fbodygyro-std-y	        |
+|26|tbodygyro-std-z	|60|fbodygyro-std-z	        |
+|27|tbodygyrojerk-mean-x	|61|fbodyaccmag-mean	        |
+|28|tbodygyrojerk-mean-y	|62|fbodyaccmag-std	        |
+|29|tbodygyrojerk-mean-z	|63|fbodybodyaccjerkmag-mean	|
+|30|tbodygyrojerk-std-x	|64|fbodybodyaccjerkmag-std	|
+|31|tbodygyrojerk-std-y	|65|fbodybodygyromag-mean	|
+|32|tbodygyrojerk-std-z	|66|fbodybodygyromag-std	|
+|33|tbodyaccmag-mean	|67|fbodybodygyrojerkmag-mean   |
+|34|tbodyaccmag-std	|68|fbodybodygyrojerkmag-std    |
