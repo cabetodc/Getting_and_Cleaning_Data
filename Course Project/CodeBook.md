@@ -50,8 +50,8 @@ The second tidy data set called **`averages_dataset.txt`** has 68 variables for 
 
 The set of variables for the 2 files are:
 
-| |Variable         
---|--
+| |Variable              
+--|--         
  1|subject	              
  2|activity	            
  3|tbodyacc-mean-x	      
