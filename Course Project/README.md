@@ -21,7 +21,7 @@ The outputs and downloaded data will be placed in a folder called *data*; this f
 
 This R script called **`run_analysis.R`** does the following.
 
-  #### 1. Merges the training and the test sets to create one data set.
+#### 1. Merges the training and the test sets to create one data set.
 
 - Read X_train.txt, y_train.txt, X_test.txt, y_test.txt, subject_test.txt and subject_train.txt from the "./UCI HAR Dataset" folder, and concatenate and store them in X, Y and S variables respectively to generate a `10299 x 561` data frame.
 
