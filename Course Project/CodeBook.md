@@ -50,8 +50,8 @@ The second tidy data set called **`averages_dataset.txt`** has 68 variables for 
 
 The set of variables for the 2 files are:
 
-|  |Variable|
-|--|--|
+|  |Variable
+|--|--
 | 1|subject	              
 | 2|activity	            
 | 3|tbodyacc-mean-x	      
@@ -86,37 +86,37 @@ The set of variables for the 2 files are:
 |32|tbodygyrojerk-std-z	  
 |33|tbodyaccmag-mean	    
 |34|tbodyaccmag-std	      
-|35|tgravityaccmag-mean	     |
-|36|tgravityaccmag-std	     |
-|37|tbodyaccjerkmag-mean	   |
-|38|tbodyaccjerkmag-std	     |
-|39|tbodygyromag-mean	       |
-|40|tbodygyromag-std	       |
-|41|tbodygyrojerkmag-mean	   |
-|42|tbodygyrojerkmag-std	   |
-|43|fbodyacc-mean-x	         |
-|44|fbodyacc-mean-y	         |
-|45|fbodyacc-mean-z	         |
-|46|fbodyacc-std-x	         |
-|47|fbodyacc-std-y	         |
-|48|fbodyacc-std-z	         |
-|49|fbodyaccjerk-mean-x	     |
-|50|fbodyaccjerk-mean-y	     |
-|51|fbodyaccjerk-mean-z	     |
-|52|fbodyaccjerk-std-x	     |
-|53|fbodyaccjerk-std-y	     |
-|54|fbodyaccjerk-std-z	     |
-|55|fbodygyro-mean-x	       |
-|56|fbodygyro-mean-y	       |
-|57|fbodygyro-mean-z	       |
-|58|fbodygyro-std-x	         |
-|59|fbodygyro-std-y	         |
-|60|fbodygyro-std-z	         |
-|61|fbodyaccmag-mean	       |
-|62|fbodyaccmag-std	         |
-|63|fbodybodyaccjerkmag-mean |
-|64|fbodybodyaccjerkmag-std	 |
-|65|fbodybodygyromag-mean	   |
-|66|fbodybodygyromag-std	   |
-|67|fbodybodygyrojerkmag-mean|
-|68|fbodybodygyrojerkmag-std |
+|35|tgravityaccmag-mean
+|36|tgravityaccmag-std
+|37|tbodyaccjerkmag-mean
+|38|tbodyaccjerkmag-std
+|39|tbodygyromag-mean
+|40|tbodygyromag-std
+|41|tbodygyrojerkmag-mean
+|42|tbodygyrojerkmag-std
+|43|fbodyacc-mean-x
+|44|fbodyacc-mean-y
+|45|fbodyacc-mean-z
+|46|fbodyacc-std-x
+|47|fbodyacc-std-y
+|48|fbodyacc-std-z
+|49|fbodyaccjerk-mean-x
+|50|fbodyaccjerk-mean-y
+|51|fbodyaccjerk-mean-z
+|52|fbodyaccjerk-std-x
+|53|fbodyaccjerk-std-y
+|54|fbodyaccjerk-std-z
+|55|fbodygyro-mean-x
+|56|fbodygyro-mean-y
+|57|fbodygyro-mean-z
+|58|fbodygyro-std-x
+|59|fbodygyro-std-y
+|60|fbodygyro-std-z
+|61|fbodyaccmag-mean
+|62|fbodyaccmag-std
+|63|fbodybodyaccjerkmag-mean
+|64|fbodybodyaccjerkmag-std
+|65|fbodybodygyromag-mean
+|66|fbodybodygyromag-std
+|67|fbodybodygyrojerkmag-mean
+|68|fbodybodygyrojerkmag-std
